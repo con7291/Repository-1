@@ -5,4 +5,5 @@ Class Project
 * [Research Proposal](https://github.com/con7291/Repository-1/blob/main/A%20Brief%20Research%20Proposal.pdf)
 
 Chapter 2
-* [Task 1] (https://github.com/con7291/Repository-1/tree/main/Task%201)
+* [Task 1](https://github.com/con7291/Repository-1/tree/main/Task%201)
+
