@@ -6,4 +6,9 @@ Class Project
 
 Chapter 2
 * [Task 1](https://github.com/con7291/Repository-1/tree/main/Task%201)
-
+* [Task 2](https://github.com/con7291/Repository-1/tree/main/Task%202)
+* [Task 6](https://github.com/con7291/Repository-1/tree/main/Task%206)
+* [Task 7](https://github.com/con7291/Repository-1/tree/main/Task%207)
+* [Task 8](https://github.com/con7291/Repository-1/tree/main/Task%208)
+* [Task 14](https://github.com/con7291/Repository-1/tree/main/Task%2014)
+* [Task 15](https://github.com/con7291/Repository-1/tree/main/Task%2015)
