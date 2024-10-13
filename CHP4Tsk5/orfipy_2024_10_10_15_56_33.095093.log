@@ -1,0 +1,7 @@
+2024-10-10 15:56:33 INFO     START LOG
+2024-10-10 15:56:33 INFO     Python info: 3.7.12 | packaged by conda-forge | (default, Oct 26 2021, 06:08:21) 
+[GCC 9.4.0]
+2024-10-10 15:56:33 INFO     orfipy version: 0.0.4
+2024-10-10 15:56:33 INFO     orfipy /scratch/biol726309/BIOL7263_Genomics/sequencing_data/ecoli/assembly/contigs.fasta --min 300 --max 1000000000 --procs 4 --chunk-size 1994 --strand b --start TTG,CTG,ATT,ATC,ATA,ATG,GTG --stop TAA,TAG,TGA --table 9 --bed /scratch/biol726309/BIOL7263_Genomics/sequencing_data/ecoli/assembly/orfs.bed --outdir orfipy_contigs.fasta_out
+2024-10-10 15:56:34 INFO     Processed 195 sequences in 1.64 seconds
+2024-10-10 15:56:34 INFO     END
