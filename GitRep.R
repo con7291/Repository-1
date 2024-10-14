@@ -5,7 +5,7 @@ Class Project
 * [Research Proposal](https://github.com/con7291/Repository-1/blob/main/A%20Brief%20Research%20Proposal%20(4).pdf)
 
 Chapter 2
-* [ask 1](https://github.com/con7291/Repository-1/tree/666a8b7e5b181643edbdb47ed8bb2c95ded9a108/CHP2Tsk1)
+* [Task 1](https://github.com/con7291/Repository-1/tree/666a8b7e5b181643edbdb47ed8bb2c95ded9a108/CHP2Tsk1)
 * [Task 2](https://github.com/con7291/Repository-1/tree/666a8b7e5b181643edbdb47ed8bb2c95ded9a108/CHP2Tsk2)
 * [Task 5](https://github.com/con7291/Repository-1/tree/666a8b7e5b181643edbdb47ed8bb2c95ded9a108/CHP2Tsk5)
 * [Task 6](https://github.com/con7291/Repository-1/tree/666a8b7e5b181643edbdb47ed8bb2c95ded9a108/CHP2Tsk6)
