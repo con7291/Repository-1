@@ -26,7 +26,7 @@ Chapter 4
 * [Task 3](https://github.com/con7291/Repository-1/tree/4ed22ebcc8cf818f105e172aac51964c5b4173d2/CHP4Tsk3)
 * [Task 5](https://github.com/con7291/Repository-1/tree/4ed22ebcc8cf818f105e172aac51964c5b4173d2/CHP4Tsk5)
 
-Chapter 5
+Chater 5
 * [Task 2](https://github.com/con7291/Repository-1/tree/4ed22ebcc8cf818f105e172aac51964c5b4173d2/CHP5Tsk2)
 * [Task 3](https://github.com/con7291/Repository-1/tree/4ed22ebcc8cf818f105e172aac51964c5b4173d2/CHP5Tsk3)
 * [Task 4](https://github.com/con7291/Repository-1/tree/4ed22ebcc8cf818f105e172aac51964c5b4173d2/CHP5Tsk4)
