@@ -1,0 +1,14 @@
+ml kallisto/0.46.1-foss-2019a
+
+kallisto index -i Shrimp_Brain.tsv transcripts_annotated.fasta
+
+mkdir output
+
+ml kallisto/0.46.1-foss-2019a
+
+kallisto quant -i Shrimp_Brain.tsv -t 20 -o ./output/CB1 -b 50 6_or_UE1_S31_R1_001.fastq.gz 6_or_UE1_S31_R2_001.fastq.gz 
+
+ln -s /scratch/biol726309/Shrim_trim/Spades/Diamond/Kallisto/transcripts_annotated.fasta transcripts_annotated.fasta
+
+grep  '^>' transcripts_annotated.fasta | sed -E 's/>([^ ]+) .* \(([^)]+)\).*/\1 \2/' > tran_kall_headers.txt
+

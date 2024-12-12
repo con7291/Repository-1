@@ -1,0 +1,6 @@
+./output/CB2 1_or_AC2_S26_R1_001.fastq.gz 1_or_AC2_S26_R1_001.fastq.gz
+./output/CB3 2_or_AE1_S27_R1_001.fastq.gz 2_or_AE1_S27_R1_001.fastq.gz
+./output/CB4 3_or_AE2_S28_R1_001.fastq.gz 3_or_AE2_S28_R2_001.fastq.gz 
+./output/CB5 4_or_AE3_S29_R1_001.fastq.gz 4_or_AE3_S29_R2_001.fastq.gz
+./output/CB6 7_or_UE2_S32_R1_001.fastq.gz 7_or_UE2_S32_R2_001.fastq.gz
+./output/CB7 8_or_UE4_S33_R1_001.fastq.gz 8_or_UE4_S33_R2_001.fastq.gz 
