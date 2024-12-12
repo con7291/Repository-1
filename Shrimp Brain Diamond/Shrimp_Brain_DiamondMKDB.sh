@@ -1,0 +1,1 @@
+diamond makedb --in uniprotkb_decapoda_2024_12_12.fasta -d Decapoda

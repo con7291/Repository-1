@@ -1,0 +1,3 @@
+gunzip uniprotkb_decapoda_2024_12_12.fasta.gz
+awk '{split($0, a, " "); split(a[2], b, "|"); gene = ($0 ~ /GN=/) ? gensub(/.*GN=([^ ]+).*/, "\\1", "g") : "-"; desc_start = index($0, a[7]); desc_end = match(substr($0, desc_start), / OS=/); print a[1] "\t" gene "|" a[2] " " substr($0, desc_start, desc_end - 1)}' Shrimp_Brain_blastx.tsv > Shrimp_Brain_headers.txt
+seqkit replace -p "(.+)" -r '$1|{kv}' -k Shrimp_Brain_headers.txt transcripts.fasta > transcripts_annotated.fasta
