@@ -1,0 +1,1 @@
+spades.py --rna -t 20 -m 60 -o spades_assembly -1 trimmed_sixreads_val_1.fq.gz -2 trimmed_sixreads_val_2.fq.gz
