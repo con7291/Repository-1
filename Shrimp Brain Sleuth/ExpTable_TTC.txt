@@ -1,0 +1,10 @@
+Run_s	treat
+CB1	U
+CB2	A
+CB3	A
+CB4	A
+CB5	A
+CB6	U	
+CB7	U
+
+
