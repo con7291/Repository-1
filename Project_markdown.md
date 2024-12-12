@@ -38,4 +38,8 @@ Using the annotation from Diamond, I used kallisto to align and count reads. Fur
 
 * [Sleuth/TopGo](https://github.com/con7291/Repository-1/tree/0b4c1bd9a46546faa6edba1f976a3053b88dcf3f/Shrimp%20Brain%20Sleuth)
 
+! [Volcano Plot](https://github.com/con7291/Repository-1/blob/main/Volcano%20Plot)
+
+! [Pheatmap](https://github.com/con7291/Repository-1/blob/main/Pheat%20Map)
+
 Conclusions: During Sleuth and TOPGO, it was found that their were significant genes being enriched. Outside of finding fragments and unidentifiable gene symbols, in the top 50 most significant findings their was adenine 58 and two CB gene symbols returned. This is interesting, as Adenine 58 is associated with tRNA structure and cell growth. Additionally, CB is associated with the brain, immune cells, and neurons. The treatment being enriched suggests potential regenerative ability of snapping shrimp after brain damage occurs.   
