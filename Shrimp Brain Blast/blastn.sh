@@ -1,0 +1,1 @@
+blastn -db Dros_Mon_db -query transcripts.fasta -outfmt "6 qseqid sseqid title" -num_threads 20 -num_alignments 1 > Dros_rna_blast.tsv

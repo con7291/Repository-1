@@ -1,0 +1,1 @@
+makeblastdb -in sequence.fasta -parse_seqids -blastdb_version 5 -title "Sequence RNA" -dbtype nucl -out Dros_Mon_db
