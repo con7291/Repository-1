@@ -1,5 +1,5 @@
 # Repository-1
-Today we used Oscer to run jobs in the Terminal. Furthermore, we connected github repository with rstudio, and found the personal token is the key to avoiding repository issues of password authentication moving forward. Also, clicking on Repository, and changing default to yes for git allows project to show, then amend commit must be clicked on next screen to amend commitment.
+Today we used Oscer to run jobs in the Terminal. Furthermore, we connected github repository with rstudio, and found zthe personal token is the key to avoiding repository issues of password authentication moving forward. Also, clicking on Repository, and changing default to yes for git allows project to show, then amend commit must be clicked on next screen to amend commitment.
 
 Class Project
 * [Research Proposal](https://github.com/con7291/Repository-1/blob/main/A%20Brief%20Research%20Proposal%20(4).pdf)
@@ -32,4 +32,5 @@ Chapter 5
 * [Task 4](https://github.com/con7291/Repository-1/tree/4ed22ebcc8cf818f105e172aac51964c5b4173d2/CHP5Tsk4)
 * [Task 5](https://github.com/con7291/Repository-1/tree/4ed22ebcc8cf818f105e172aac51964c5b4173d2/CHP5Tsk5)
 
-
+Project Markdown
+* [Project Markdown](https://github.com/con7291/Repository-1/blob/main/Project_markdown.md)
